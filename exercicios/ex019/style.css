@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+/* 
+em HTMl é id = em CSS vira é #
+Em HTMl é class = em CSS é .
+*/
+
+
+body{
+    background-color:#395D57 ;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+
+h1{
+   color: #FA5B1B;
+}
+
+h1#principal{
+    text-align: center;
+    background-color:#2E8072;
+    color: white;
+    ;
+}
+
+h2{
+    color: #A56349;
+}
+
+.basico{
+    color: green;
+    background-color: #1CFAD5;
+
+}
+
+.intermediario{
+    color: yellow;
+    background-color:#FA5B1B;
+}
+
+.avancado{
+    color: red;
+    background-color: #A56349;
+}
